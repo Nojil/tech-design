@@ -1,0 +1,168 @@
+html, body, p, ul, ol {
+  color: #615c59;
+  font-size: 16px;
+}
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
+}
+.right .bm-burger-button {
+  left: initial;
+  right: 36px;
+}
+.bm-burger-bars {
+  background: #1b1a1a;
+}
+.bm-morph-shape {
+  fill: #1b1a1a;
+}
+.bm-menu {
+  background: #1b1a1a;
+}
+.bm-menu a {
+  color: #b8b7ad;
+}
+.bm-menu a:hover,
+.bm-menu a:focus {
+  color: #c94e50;
+}
+.bm-item-list a {
+  padding: 0.8em;
+}
+.bm-item-list a span {
+  margin-left: 10px;
+  font-weight: 700;
+}
+.bm-item:focus {
+  outline: none;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #c94e50;
+}
+
+/*
+Sidebar wrapper styles
+Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+*/
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #1b1a1a;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.25em;
+}
+
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #1b1a1a;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+  padding: 0.8em;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.bm-item-list a {
+  padding: 0.8em;
+}
+
+
+.bm-item-list a {
+  margin-left: 10px;
+  font-weight: 700;
+  color: rgb(184, 183, 173);
+}
+
+.bm-menu a:hover, .bm-menu a:focus {
+  color: #c94e50 !important;
+  outline-style: none;
+  text-decoration: none !important;
+}
+
+
+.bm-item a.active {
+  color: #c94e50 !important;
+  outline-style: none;
+  text-decoration: none !important;
+}
+
+
+.init-component-row {
+  margin-top: 50px;
+}
+
+/* Special Headings */
+.special-heading {
+  border-bottom: 1px solid #f2f2f2;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+  width: 100%;
+  text-align: left;
+}
+
+.special-heading h1,.special-heading h2,.special-heading h3,.special-heading h4,.special-heading h5,.special-heading h6 {
+  border-bottom: 2px solid #c94e50;
+  display: inline-block;
+  padding: 0 0 7px 0;
+  margin: 0 0 -2px 0;
+}
+
+.special-heading h1,.special-heading h2,.special-heading h3,.special-heading h4 {
+  letter-spacing: 2px;
+}
+
+.special-heading h5,.special-heading h6 {
+  letter-spacing: 1px;
+}
+
+.special-heading h1 {
+  font-size: 20px;
+}
+
+.special-heading h2 {
+  font-size: 18px;
+}
+
+.special-heading h3 {
+  font-size: 16px;
+}
+
+.special-heading h4 {
+  font-size: 14px;
+}
+
+.special-heading h5 {
+  font-size: 14px;
+}
+
+.special-heading h6 {
+  font-size: 12px;
+}
+
+pre code {
+  display: block;
+  color: #63584f;
+}
