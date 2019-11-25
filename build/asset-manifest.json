@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tech-design/static/css/main.cf824098.chunk.css",
+    "main.js": "/tech-design/static/js/main.dd9f5336.chunk.js",
+    "main.js.map": "/tech-design/static/js/main.dd9f5336.chunk.js.map",
+    "runtime-main.js": "/tech-design/static/js/runtime-main.2392cd22.js",
+    "runtime-main.js.map": "/tech-design/static/js/runtime-main.2392cd22.js.map",
+    "static/css/2.510409cd.chunk.css": "/tech-design/static/css/2.510409cd.chunk.css",
+    "static/js/2.d4ee491f.chunk.js": "/tech-design/static/js/2.d4ee491f.chunk.js",
+    "static/js/2.d4ee491f.chunk.js.map": "/tech-design/static/js/2.d4ee491f.chunk.js.map",
+    "index.html": "/tech-design/index.html",
+    "precache-manifest.26541c9b1dbfb8acda818b62626bd1d9.js": "/tech-design/precache-manifest.26541c9b1dbfb8acda818b62626bd1d9.js",
+    "service-worker.js": "/tech-design/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/tech-design/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.cf824098.chunk.css.map": "/tech-design/static/css/main.cf824098.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2392cd22.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.d4ee491f.chunk.js",
+    "static/css/main.cf824098.chunk.css",
+    "static/js/main.dd9f5336.chunk.js"
+  ]
+}
