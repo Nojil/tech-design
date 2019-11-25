@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "994ea050b1b9f7b0b31cc73b5954b5c0",
+    "revision": "ef0f329d2116a416207d72baf8c2391b",
     "url": "/tech-design/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tech-design/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "53423418f2033aec1a33",
+    "revision": "ce2a194ef5c08bbc0702",
     "url": "/tech-design/static/css/main.cf824098.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tech-design/static/js/2.d4ee491f.chunk.js"
   },
   {
-    "revision": "53423418f2033aec1a33",
-    "url": "/tech-design/static/js/main.2db0f96b.chunk.js"
+    "revision": "ce2a194ef5c08bbc0702",
+    "url": "/tech-design/static/js/main.dd9f5336.chunk.js"
   },
   {
     "revision": "e83e857cdf87a9299f97",
